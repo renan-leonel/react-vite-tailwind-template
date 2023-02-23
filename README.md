@@ -2,9 +2,9 @@
 
 ##### steps followed to create this project
 
-####### npm run dev
+##### npm run dev
 
-####### npm create vite@latest
+##### npm create vite@latest
 
-####### npm install -D tailwindcss postcss autoprefixer
-####### npx tailwindcss init -p
+##### npm install -D tailwindcss postcss autoprefixer
+##### npx tailwindcss init -p
