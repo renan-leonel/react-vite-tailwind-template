@@ -1,6 +1,10 @@
-npm run dev
+### Template to create a React project using tailwindcss
 
-npm create vite@latest
+##### steps followed to create this project
 
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
+####### npm run dev
+
+####### npm create vite@latest
+
+####### npm install -D tailwindcss postcss autoprefixer
+####### npx tailwindcss init -p
